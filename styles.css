@@ -8,6 +8,9 @@ body {
   color: #5a5a5a;
 }
 
+.text-bold{
+  color:#800000!important
+}
 /* Sticky Navbar */
 nav {
   position: sticky;
